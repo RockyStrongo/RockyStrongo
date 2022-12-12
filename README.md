@@ -1,4 +1,13 @@
-### Hi there 👋
+## Hi there 👋
+
+### My name is Simon, I live in the south of France and I am a passionate developper !
+
+
+Some of the projects I am working on are :  
+- [@wikigoodarticle](https://github.com/RockyStrongo/Wikipedia-Good-Articles-Bot): A Twitter bot posting good articles from Wikipedia, including a logic to avoid posting several times the same article categories and to promote gender equity
+- [myrecords.fr](http://myrecords.fr) : An app connected to Discogs to manage my vinyl records collection (PHP/MySQL)
+- [yorulmaz.com](http://simonferlat.com/yorulmaz/index.html): a parody fortune teller app to help you find love
+- Many more...
 
 <!--
 **RockyStrongo/RockyStrongo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
