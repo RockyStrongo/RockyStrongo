@@ -9,6 +9,8 @@ Some of the projects I am working on are :
 - [yorulmaz.com](http://simonferlat.com/yorulmaz/index.html): a parody fortune teller app to help you find love
 - Many more...
 
+[Link to my profile page](https://rockystrongo.github.io/)
+
 <!--
 **RockyStrongo/RockyStrongo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
